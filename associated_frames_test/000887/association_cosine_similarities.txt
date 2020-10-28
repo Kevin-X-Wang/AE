@@ -1,0 +1,6 @@
+Image, Cosine Similarity
+['/project_data/ramanan/kwang2/dataset_old/horse1/frame000931.png'], 0.5494891
+['/project_data/ramanan/kwang2/dataset_old/horse1/frame000919.png'], 0.54898757
+['/project_data/ramanan/kwang2/dataset_old/horse1/frame000907.png'], 0.5480068
+['/project_data/ramanan/kwang2/dataset_old/horse1/frame000867.png'], 0.5425353
+['/project_data/ramanan/kwang2/dataset_old/horse1/frame000913.png'], 0.5345406
