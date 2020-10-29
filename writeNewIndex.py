@@ -10,9 +10,9 @@ index = open("./index.html", "w")
 
 html = ""
 
-for i in range(0, 1197):
+for i in range(0, 1500):
 	name = str(i).zfill(6)
-	folder = "./associated_frames_test/{}/".format(name)
+	folder = "./ocean_ngf64_lS512_fS512_batchSize1_singleGPU_28/test_latest/associated_frames_test/{}/".format(name)
 	files = filter(lambda f: "img" in f, getFiles(folder))
 	to_add = """
 		<table border="1" style="table-layout: fixed;">

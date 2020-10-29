@@ -1,0 +1,6 @@
+Image, Cosine Similarity
+['/project_data/ramanan/kwang2/dataset_old/ocean/frame000831.png'], 0.81323445
+['/project_data/ramanan/kwang2/dataset_old/ocean/frame000790.png'], 0.7975791
+['/project_data/ramanan/kwang2/dataset_old/ocean/frame000837.png'], 0.79299
+['/project_data/ramanan/kwang2/dataset_old/ocean/frame000784.png'], 0.7752044
+['/project_data/ramanan/kwang2/dataset_old/ocean/frame000843.png'], 0.76949537
